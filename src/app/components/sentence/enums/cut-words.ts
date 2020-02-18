@@ -1,0 +1,16 @@
+export enum CutWords {
+    "drop",
+    "cut",
+    "leave",
+    "lose",
+    "trim",
+    "shed",
+    "cast",
+    "unload",
+    "strike",
+    "skip",
+    "throw",
+    "shake",
+    "shave",
+    "ditch",
+}
